@@ -3495,9 +3495,9 @@ header .navbar-expand.navbar-sticky .nav-link {
   opacity: 0.94;
 }
 .hero-section .hero-thumb {
-  width: 120px;
+  width: 130px;
   border-style: solid;
-  border-width: 8px;
+  border-width: 4px;
   border-color: #0C0E23;
   border-radius: 100%;
   transition-duration: 0.3s;
