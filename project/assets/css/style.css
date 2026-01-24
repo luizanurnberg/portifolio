@@ -3650,6 +3650,13 @@ header .navbar-expand.navbar-sticky .nav-link {
   gap: 0.5rem;
 }
 
+.site-title i {
+  font-size: 22px;
+  margin-right: 12px;
+  color: #d0d0d4;
+  transition: color 0.3s ease;
+}
+
 .tl-counter-number-wrapper {
   display: flex;
   font-size: 69px;
